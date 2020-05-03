@@ -8,6 +8,7 @@ fn main() {
     // let mut data: Vec<i32> = vec![5, 1, 1, 2];
     // let mut data:[i32;4] = [5, 1 ,1, 2];
 
+    
     let stdin = io::stdin();
     // we could use this value to create an array instead of vec
     //-----------------unused------------
